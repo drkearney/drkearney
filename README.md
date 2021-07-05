@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drkearney
 - 👀 I’m interested in  marketing data science
-=- 💞️ I’m looking to collaborate on launching and measuring marketing campaigns
+- 💞️ I’m looking to collaborate on launching and measuring marketing campaigns
 - 📫 How to reach me: david.kearney@tomota.vn
 
 <!---
